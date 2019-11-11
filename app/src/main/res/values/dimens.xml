@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="choki_width">100dp</dimen>
+    <dimen name="choki_height">100dp</dimen>
+    <dimen name="gu_width">100dp</dimen>
+    <dimen name="gu_height">100dp</dimen>
+    <dimen name="pa_width">100dp</dimen>
+    <dimen name="pa_height">100dp</dimen>
+    <dimen name="myHand_width">160dp</dimen>
+    <dimen name="myHand_height">160dp</dimen>
+    <dimen name="comHand_width">130dp</dimen>
+    <dimen name="comHand_height">200dp</dimen>
+</resources>
